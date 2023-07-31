@@ -12,7 +12,7 @@ import { Analytics } from "@vercel/analytics/react";
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Blog | Kitchen Sink",
+  title: "Блог | Kitchen Sink",
   viewport: "width=device-width,initial-scale=1",
 });
 
